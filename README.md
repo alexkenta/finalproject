@@ -1,0 +1,1 @@
+This is my final "Belt" exam for the MEAN stack. The exam follows a provided wireframe and features full CRUD operations. Users can add new products, edit, and delete. Full list of products appears on home. Validations are back-end from mongoose. Edit screen has pre-populated info.
